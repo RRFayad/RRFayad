@@ -1,4 +1,4 @@
-### Hi there, I'm Renan, a FullStack Developer! 👋
+### Hi there, a FullStack Developer! 👋
 
 <!--
 **RRFayad/RRFayad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
