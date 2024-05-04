@@ -1,5 +1,13 @@
 ### Hi there, I'm a FullStack Developer! 👋
 
+I'm a passionate Full Stack Web Developer with a strong understanding of both front-end and back-end development, including mobile. I'm excited to apply my skills in a professional setting.
+
+With a successful career as a Senior Manager in a Technology and Innovation Consultancy, leading projects with some of the biggest Brazilian tech companies, such as XP Inc, Mercado Libre, among others, I started teaching myself how to code.
+
+What started as a hobby, quickly became something I was truly passionate about, and now I create end-to-end software solutions, including web and mobile applications.
+
+[**Get in touch for a quick conversation**](https://api.whatsapp.com/send?phone=5511992861954&text=Hi%21%20I%20was%20checking%20out%20your%20CV%20)
+
 <!--
 **RRFayad/RRFayad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
