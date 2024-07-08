@@ -1,6 +1,6 @@
 ### Hi there, I'm a FullStack Developer! 👋
 
-I'm a passionate Full Stack Web Developer with a strong understanding of both front-end and back-end development, including mobile. I'm excited to apply my skills in a professional setting.
+I'm a passionate Full Stack Web Developer with a strong understanding of both front-end and back-end development, including mobile.
 
 With a successful career as a Senior Manager in a Technology and Innovation Consultancy, leading projects with some of the biggest Brazilian tech companies, such as XP Inc, Mercado Libre, among others, I started teaching myself how to code.
 
