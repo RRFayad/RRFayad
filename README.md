@@ -6,7 +6,7 @@ With a successful career as a Senior Manager in a Technology and Innovation Cons
 
 What started as a hobby, quickly became something I was truly passionate about, and now I create end-to-end software solutions, including web and mobile applications.
 
-My Tech Stack: HTML, CSS, JavaScript, React, Node, Express, MongoDB, Mongoose, PostgreSQL, Sequelize, React Native, TypeScript, Next, ShadcnUI.
+My Tech Stack: HTML, CSS, JavaScript, React, Node, Express, MongoDB, Mongoose, PostgreSQL, Sequelize, React Native, TypeScript, Next, Prisma and ShadcnUI.
 
 [**Get in touch for a quick conversation**](https://api.whatsapp.com/send?phone=5511992861954&text=Hi%21%20I%20was%20checking%20out%20your%20CV%20)
 
