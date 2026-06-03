@@ -30,8 +30,8 @@ Tools: Git, GitHub, Vercel, Firebase, BigQuery
 
 ## Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/rfayad/]
-- Email: [renan.r.fayad@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/rfayad/)
+- renan.r.fayad@gmail.com
 
 <!--
 **RRFayad/RRFayad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
