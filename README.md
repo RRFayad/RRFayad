@@ -1,14 +1,37 @@
-### Hi there, I'm a FullStack Developer! 👋
+# Hi there, I'm Renan 👋
 
-I'm a passionate Full Stack Web Developer with a strong understanding of both front-end and back-end development, including mobile.
+I'm a Full Stack Engineer focused on building AI-driven web applications across the TypeScript and Python ecosystems.
 
-With a successful career as a Senior Manager in a Technology and Innovation Consultancy, leading projects with some of the biggest Brazilian tech companies, such as XP Inc, Mercado Libre, among others, I started teaching myself how to code.
+My strongest experience is in React, Next.js, TypeScript, and modern frontend architecture, complemented by backend development with Node.js, FastAPI, PostgreSQL, and MongoDB.
 
-What started as a hobby, quickly became something I was truly passionate about, and now I create end-to-end software solutions, including web and mobile applications.
+Most recently, I worked at Helios AI, an agriculture forecasting startup, where I owned end-to-end projects involving large-scale data visualization, performance optimization, and data integration solutions.
 
-My Tech Stack: HTML, CSS, JavaScript, React, Node, Express, MongoDB, Mongoose, PostgreSQL, Sequelize, React Native, TypeScript, Next, Prisma and ShadcnUI.
+Before transitioning into software engineering, I spent 13 years in technology innovation consulting, leading strategic R&D initiatives and multidisciplinary teams for some of Brazil's largest technology companies, including XP Inc. and Mercado Libre. This background helps me bridge the gap between technology, business objectives, and product development.
 
-[**Get in touch for a quick conversation**](https://api.whatsapp.com/send?phone=5511992861954&text=Hi%21%20I%20was%20checking%20out%20your%20CV%20)
+## Current Focus
+
+- Full Stack Engineering
+- AI Applications & RAG Systems
+- React, Next.js & TypeScript
+- Python & FastAPI
+- Product-Oriented Software Development
+
+## Tech Stack
+
+Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Styled Components, Tailwind CSS
+
+Backend: Node.js, FastAPI, Python
+
+Databases & ORMs: PostgreSQL, MongoDB, Prisma, SQLAlchemy
+
+AI & Data: OpenAI APIs, RAG Systems, Pydantic
+
+Tools: Git, GitHub, Vercel, Firebase, BigQuery
+
+## Let's Connect
+
+- LinkedIn: [https://www.linkedin.com/in/rfayad/]
+- Email: [renan.r.fayad@gmail.com]
 
 <!--
 **RRFayad/RRFayad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
