@@ -28,6 +28,21 @@ AI & Data: OpenAI APIs, RAG Systems, Pydantic
 
 Tools: Git, GitHub, Vercel, Firebase, BigQuery
 
+## Recent Projects
+
+### Corrective RAG
+- In progress
+
+### Personal Workout App
+- [**Live Demo**](https://primal-trainer.vercel.app/)
+- [**Repository**](https://github.com/RRFayad/personal-workout-app)
+
+
+### WebFlare - Digital Businesses Marketplace
+- [**Live Demo**](https://webflare.vercel.app/)
+- [**Front End Repo**](https://github.com/RRFayad/webflare-frontend)
+- [**Back End Repo**](https://github.com/RRFayad/webflare-api)
+
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rfayad/)
