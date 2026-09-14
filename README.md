@@ -12,17 +12,19 @@ Before transitioning into software engineering, I spent 13 years in technology i
 
 - Full Stack Engineering
 - AI Applications & RAG Systems
+- SaaS Product Infrastructure (Auth, Billing, Multi-tenant Architecture)
 - React, Next.js & TypeScript
 - Python & FastAPI
-- Product-Oriented Software Development
 
 ## Tech Stack
 
-Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Styled Components, Tailwind CSS
+Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Styled Components, Tailwind CSS, shadcn/ui
 
 Backend: Node.js, FastAPI, Python
 
-Databases & ORMs: PostgreSQL, MongoDB, Prisma, SQLAlchemy
+Databases & ORMs: PostgreSQL, MongoDB, Prisma, SQLAlchemy, Drizzle ORM
+
+Auth & Payments: Clerk, Stripe, Next-Auth
 
 AI & Data: OpenAI APIs, RAG Systems, Pydantic
 
@@ -30,13 +32,19 @@ Tools: Git, GitHub, Vercel, Firebase, BigQuery
 
 ## Recent Projects
 
+### SaaS Starter Kit
+A production-ready boilerplate for subscription-based, AI-powered SaaS apps — authentication, billing, database persistence, and authorization already wired up, with a Python backend included, so new products can skip rebuilding core infrastructure.
+Stack: Next.js, TypeScript, Tailwind CSS, shadcn/ui, FastAPI, PostgreSQL (Drizzle ORM + SQLAlchemy), Clerk, Stripe
+
+- [**Live Demo**](https://rf-saas-starter-kit.vercel.app/)
+- [**Repository**](https://github.com/RRFayad/saas-starter-kit)
+
 ### Corrective RAG
 - In progress
 
 ### Personal Workout App
 - [**Live Demo**](https://primal-trainer.vercel.app/)
 - [**Repository**](https://github.com/RRFayad/personal-workout-app)
-
 
 ### WebFlare - Digital Businesses Marketplace
 - [**Live Demo**](https://webflare.vercel.app/)
@@ -47,18 +55,3 @@ Tools: Git, GitHub, Vercel, Firebase, BigQuery
 
 - [LinkedIn](https://www.linkedin.com/in/rfayad/)
 - renan.r.fayad@gmail.com
-
-<!--
-**RRFayad/RRFayad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
