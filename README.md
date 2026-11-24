@@ -28,15 +28,21 @@ Tools: Git, GitHub, Vercel, Stripe, Clerk, AI Coding Agents (Claude Code, Codex)
 
 ## Recent Projects
 
+### Book Mentor
+A RAG application that answers questions from your books and cites the exact page — built solo end to end, from product spec and design to a deployed, tested product.
+
+A LangGraph agent turns each question into searches, retries with new queries when a search comes back empty, and says plainly when the book doesn't cover something instead of making it up. Answer quality is measured, not assumed: an eval set of 29 questions answered correctly in 28–29 of 29, and 4 of 4 off-book questions correctly declined. Spec-driven, with CI on every pull request.
+Stack: Next.js, TypeScript, Fastify, PostgreSQL + pgvector, Drizzle, LangChain + LangGraph, OpenAI, LangSmith, Clerk, Vercel, GitHub Actions
+
+- [**Live Demo**](https://rf-book-mentor.vercel.app/)
+- [**Repository**](https://github.com/RRFayad/book-mentor#readme)
+
 ### SaaS Starter Kit
 A production-ready boilerplate for subscription-based, AI-powered SaaS apps — authentication, billing, database persistence, and authorization already wired up, with a Python backend included, so new products can skip rebuilding core infrastructure.
 Stack: Next.js, TypeScript, Tailwind CSS, shadcn/ui, FastAPI, PostgreSQL (Drizzle ORM + SQLAlchemy), Clerk, Stripe
 
 - [**Live Demo**](https://rf-saas-starter-kit.vercel.app/)
 - [**Repository**](https://github.com/RRFayad/saas-starter-kit)
-
-### Corrective RAG
-- In progress
 
 ### Personal Workout App
 - [**Live Demo**](https://primal-trainer.vercel.app/)
