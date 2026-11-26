@@ -1,6 +1,6 @@
 # Hi there, I'm Renan 👋
 
-I'm a Front End Engineer focused on building AI-driven web applications across the TypeScript and Python ecosystems.
+I'm a Full Stack (Front End focused) Engineer specializing on building AI-driven web applications across the TypeScript and Python ecosystems.
 
 I'm a Frontend Engineer with more than 3 years of hands-on experience and strong Full Stack background, focused on building production applications across the TypeScript and Python ecosystems, using React, Next.js, Node.js, FastAPI, SQL, and NoSQL databases, with growing expertise in AI applications, AI agents, and RAG systems using LangChain and LangGraph.
 
